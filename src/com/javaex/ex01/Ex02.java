@@ -1,6 +1,8 @@
 
 package com.javaex.ex01;
 
+import java.util.Scanner;
+
 public class Ex02 {
 
 	public static void main(String[] args)
@@ -19,7 +21,13 @@ public class Ex02 {
 	
 	System.out.println(var03);
 	System.out.println(var04);
-	
-	
+		
+
 	}
 }
+
+
+	
+	
+	
+
